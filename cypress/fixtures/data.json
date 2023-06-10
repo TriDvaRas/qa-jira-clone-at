@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://jira.ivorreic.com",
+  "dashboardSearchText": "Try leaving",
+  "createIssueSummary": "New test issue summary"
+}

@@ -1,0 +1,22 @@
+{
+    "allIssuesContainer": "div.sc-hrWEMg.efIbEb",
+    "backlogContainer": "div[data-testid=\"board-list:backlog\"]",
+    "selectedContainer": "div[data-testid=\"board-list:selected\"]",
+    "inProgressContainer": "div[data-testid=\"board-list:inprogress\"]",
+    "doneContainer": "div[data-testid=\"board-list:done\"]",
+
+    "firstBacklogIssue": "div[data-testid=\"board-list:backlog\"] > :first-child",
+    "dashboardTextSearchField": "div[data-testid=\"board-filters\"] > :first-child > input",
+    "dashboardUserSearchGabenAvatar": "div[data-testid=\"board-filters\"]  div[data-testid=\"avatar:Lord Gaben\"]",
+    "gabenAvatar": "div[data-testid=\"avatar:Lord Gaben\"]",
+
+    "detailsViewModal": "div[data-testid=\"modal:issue-details\"]",
+    "createIssueModal": "div[data-testid=\"modal:issue-create\"]",
+
+    
+    "createIssueButton": "#root > div.sc-kaNhvL.frvEnU > aside > div:nth-child(3) > i",
+    "createIssueSummaryField": "div[data-testid=\"form-field:title\"] input",
+    "editIssueSummaryField": " div.sc-fMiknA.edMYdI.sc-epnACN.dYOCoN > textarea",
+    "closeIssueEditButton": " div.sc-dUjcNx.gHqxeK > button > [data-testid=\"icon:close\"]",
+    "submitIssueButton": "div[data-testid=\"modal:issue-create\"] button[type=\"submit\"]"
+}
